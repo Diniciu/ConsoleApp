@@ -1,19 +1,17 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
-    public class Program
+    /*
+    public class StringConcatenation20
     {
         static void Main(string[] args)
         {
 
-            
-            Console.ReadLine();
         }
     }
+    */
 }
