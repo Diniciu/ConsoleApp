@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 
-namespace ConsoleApp
+namespace StringIterationLooping23
 {
     /*
     public class StringIterationLooping23

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ConsoleApp
+namespace ArrayClearing28
 {
     /*
     public class ArrayClearing28

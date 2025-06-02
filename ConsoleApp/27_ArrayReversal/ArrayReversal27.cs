@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ConsoleApp
+namespace ArrayReversal27
 {
     /*
     public class ArrayReversal27

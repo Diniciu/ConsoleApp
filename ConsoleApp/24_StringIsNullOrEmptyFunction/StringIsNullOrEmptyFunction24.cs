@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace IsNullOrEmpty
+namespace StringIsNullOrEmptyFunction24
 {
     /*
     public class StringIsNullOrEmptyFunction24
