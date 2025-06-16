@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace StringIsNullOrEmptyFunction24
+namespace StringIsNullOrEmptyFunction
 {
     /*
-    public class StringIsNullOrEmptyFunction24
+    public class StringIsNullOrEmptyFunction
     {
         static void Main(string[] args)
         {

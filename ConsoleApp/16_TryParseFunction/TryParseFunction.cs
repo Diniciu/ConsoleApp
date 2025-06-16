@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace VerbatimStringLiteral
+namespace TryParseFunction
 {
     /*
-    public class VerbatimStringLiteral
+    public class TryParseFunction
     {
         static void Main(string[] args)
         {

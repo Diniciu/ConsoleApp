@@ -1,14 +1,12 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp
+namespace ClassProperties
 {
-    public class Program
+    /*
+    public class ClassProperties
     {
         class Person
         {
@@ -63,14 +61,18 @@ namespace ConsoleApp
             }
             */
 
+            /*
             public string ReturnDetails()
             {
                 return $"Name: {Name}\nAge: {Age}";
             }
+            */
         }
 
+        /*
         static void Main(string[] args)
         {
+            
             Person person = new Person("Vinicius", 24);
             System.Console.WriteLine(person.ReturnDetails());
 
@@ -83,4 +85,5 @@ namespace ConsoleApp
             Console.ReadLine();
         }
     }
+    */
 }

@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ArraySorting26
+namespace ArraySorting
 {
     /*
-    public class ArraySorting26
+    public class ArraySorting
     {
         static void Main(string[] args)
         {

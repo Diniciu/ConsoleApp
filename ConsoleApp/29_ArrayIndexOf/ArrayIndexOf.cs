@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ArrayIndexOf29
+namespace ArrayIndexOf
 {
     /*
-    public class ArrayIndexOf29
+    public class ArrayIndexOf
     {
         static void Main(string[] args)
         {

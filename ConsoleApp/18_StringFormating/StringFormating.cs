@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TryParseFunction16
+namespace StringFormating
 {
     /*
-    public class TryParseFunction16
+    public class StringFormating
     {
         static void Main(string[] args)
         {

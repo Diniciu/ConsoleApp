@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace VerbatimStringLiteral
+namespace StringInterpolation
 {
     /*
-    public class VerbatimStringLiteral
+    public class StringInterpolation
     {
         static void Main(string[] args)
         {

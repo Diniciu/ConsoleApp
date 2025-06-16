@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ArrayReversal27
+namespace ArrayReversal
 {
     /*
-    public class ArrayReversal27
+    public class ArrayReversal
     {
         static void Main(string[] args)
         {

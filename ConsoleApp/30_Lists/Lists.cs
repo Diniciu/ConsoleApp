@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Lists30
+namespace Lists
 {
     /*
-    public class Lists30
+    public class Lists
     {
         static void Main(string[] args)
         {

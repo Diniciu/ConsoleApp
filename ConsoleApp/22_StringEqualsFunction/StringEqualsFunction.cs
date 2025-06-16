@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace StringEqualsFunction22
+namespace StringEqualsFunction
 {
     /*
-    public class StringEqualsFunction22
+    public class StringEqualsFunction
     {
         static void Main(string[] args)
         {

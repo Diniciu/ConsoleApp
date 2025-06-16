@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace Functions
 {
     /*
-    public class Functions32
+    public class Functions
     {
         static void Main(string[] args)
         {

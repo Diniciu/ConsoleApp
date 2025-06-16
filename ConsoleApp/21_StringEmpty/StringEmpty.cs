@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace StringEmpty21
+namespace StringEmpty
 {
     /*
-    public class StringEmpty21
+    public class StringEmpty
     {
         static void Main(string[] args)
         {

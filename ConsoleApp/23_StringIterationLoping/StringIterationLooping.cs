@@ -6,10 +6,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 
-namespace StringIterationLooping23
+namespace StringIterationLooping
 {
     /*
-    public class StringIterationLooping23
+    public class StringIterationLooping
     {
         static void Main(string[] args)
         {

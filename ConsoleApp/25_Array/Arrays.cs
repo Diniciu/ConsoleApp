@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Arrays25
+namespace Arrays
 {
     /*
-    public class Arrays25
+    public class Arrays
     {
         static void Main(string[] args)
         {

@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace StringConcatenation20
+namespace StringConcatenation
 {
     /*
-    public class StringConcatenation20
+    public class StringConcatenation
     {
         static void Main(string[] args)
         {

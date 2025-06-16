@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NumericFormatting15
+namespace NumericFormatting
 {
     /*
-    public class NumericFormatting15
+    public class NumericFormatting
 {
     static void Main(string[] args)
     {

@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Dictionary31
+namespace Dictionary
 {
     /*
-    public class Dictionary31
+    public class Dictionary
     {
         static void Main(string[] args)
         {

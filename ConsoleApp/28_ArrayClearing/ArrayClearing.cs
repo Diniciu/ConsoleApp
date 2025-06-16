@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ArrayClearing28
+namespace ArrayClearing
 {
     /*
-    public class ArrayClearing28
+    public class ArrayClearing
     {
         static void Main(string[] args)
         {
