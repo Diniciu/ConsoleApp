@@ -11,6 +11,8 @@ namespace StringFormating
         static void Main(string[] args)
         {
 
+
+            Console.ReadLine();
         }
     }
     */

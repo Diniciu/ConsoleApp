@@ -11,6 +11,8 @@ namespace TryParseFunction
         static void Main(string[] args)
         {
 
+
+            Console.ReadLine();
         }
     }
     */

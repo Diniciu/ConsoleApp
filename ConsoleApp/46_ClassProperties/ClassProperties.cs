@@ -38,6 +38,7 @@ namespace ClassProperties
                 Name = name;
                 Age = age;
             }
+            */
             
             /*
             public void SetName(string value)
@@ -66,8 +67,8 @@ namespace ClassProperties
             {
                 return $"Name: {Name}\nAge: {Age}";
             }
-            */
         }
+        */
 
         /*
         static void Main(string[] args)
