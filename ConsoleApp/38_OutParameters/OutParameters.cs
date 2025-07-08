@@ -1,6 +1,9 @@
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
+using System.Runtime.InteropServices;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace OutParameters
@@ -11,7 +14,7 @@ namespace OutParameters
         static void Main(string[] args)
         {
             int number = 0;
-            bool sucess = test(out number);
+            //bool sucess = test(out number);
             System.Console.WriteLine(number);
             // System.Console.WriteLine(sucess);
 
@@ -29,6 +32,7 @@ namespace OutParameters
             System.Console.WriteLine("Enter an item search: ");
             string search = Console.ReadLine();
 
+            
             if (FindInList(search, shoppingList, out int index))
             {
                 System.Console.WriteLine($"Found {search} at index {index}.");
@@ -38,31 +42,31 @@ namespace OutParameters
                 System.Console.WriteLine("Not found.");
             }
 
-            /*
-                int index = -1; // -> 0
+            //int index = -1; // -> 0
 
-                for (int i = 0; i < shoppingList.Count; i++)
+            for (int i = 0; i < shoppingList.Count; i++)
+            {
+                if (shoppingList[i].ToLower().Equals("coffee"));
                 {
-                    if (shoppingList[i].ToLower().Equals("coffee"));
-                    {
-                        index = i;
-                    }
+                    index = i;
                 }
+            }
 
-                bool found = index > -1;
-                System.Console.WriteLine(index > -1 ? "Found" : "Not found");
+            bool found = index > -1;
+            System.Console.WriteLine(index > -1 ? "Found" : "Not found");
                 
 
-                Console.ReadLine();
+            Console.ReadLine();
         }
-        /*
+        
+        
         static bool FindInList(string s, List<string> list, out int index)
         {
             index = -1; // -> 0
 
             for (int i = 0; i < list.Count; i++)
             {
-                if (list[i].ToLower().Equals(s.ToLower()));
+                if (list[i].ToLower().Equals(s.ToLower())) ;
                 {
                     index = i;
                 }
@@ -85,6 +89,7 @@ namespace OutParameters
             number = 5;
             return true;
         }
+        
     }
     */
 }

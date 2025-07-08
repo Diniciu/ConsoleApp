@@ -11,12 +11,12 @@ namespace ConsoleApp.Exercise05
         static void Main(string[] args)
         {
             /*
-            Ask the user to input message
-            Print in order
-            Print in reverse
-        */
+                - Ask the user to input message
+                - Print in order
+                - Print in reverse
+            */
         
-        /*
+        
         static void Main(string[] args)
         {
             System.Console.Write("Enter a message: ");
